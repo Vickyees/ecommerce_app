@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766822909317",
+    "project_id": "e-commerce-app-d40d2",
+    "storage_bucket": "e-commerce-app-d40d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766822909317:android:e354fcfa32a57bbca0b0ec",
+        "android_client_info": {
+          "package_name": "com.vickyees.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766822909317-kchi8g48ur26f8248hfeqs84heclt6ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5-oyG8bze-HlGbSptB5VEobF0A_OF_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766822909317-kchi8g48ur26f8248hfeqs84heclt6ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
